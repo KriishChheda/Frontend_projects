@@ -1,0 +1,116 @@
+.form{
+    padding:50px;
+    width:50%;
+    margin-left:25%;
+}
+
+.input1{
+    margin-left:97px;
+    margin-bottom:5px;
+    width:200px;
+}
+.input2{
+    margin-left:101px;
+    margin-bottom:5px;
+    width:200px;
+}
+.input3{
+    margin-bottom:5px;
+    width:200px;
+}
+.input4{
+    margin-bottom:5px;
+    width:200px;
+}
+.label3{
+    margin-right:60px;
+}
+.label4{
+    margin-right:73px;
+}
+.input5{
+    margin-right:38px;
+    margin-bottom:5px;
+    width:200px;
+}
+
+.input6{
+    margin-bottom:5px;
+    margin-left:22px;
+    width:200px;
+}
+.input7{
+    margin-bottom:5px;
+    width:200px;
+}
+.label5{
+    padding:25px;
+}
+.label6{
+    margin-right:85px;
+}
+.label7{
+    margin-right:33px;
+}
+
+input{
+    border-radius:5px;
+    width:200px;
+}
+
+label{
+    font-weight:500;
+}
+button{
+    padding:5px;
+    margin:20px;
+    cursor:pointer;
+    border-radius:5px;
+    border-width: 1px;
+    width:25%; 
+}
+.dark_theme{
+    color:white;
+    background-color: black;
+}
+.dark_theme #Regibox{
+    color:black;
+}
+.light_theme{
+    color:black;
+    background-color: white;
+}
+#container{
+    box-shadow: 0 0 0 2px black; 
+    border-radius: 10px;
+}
+#Regibox{
+    background-color: gainsboro;
+    border-radius: 10px;
+    text-align:center;
+    justify-content: center;
+}
+#loginContainer{
+    box-shadow: 0 0 0 2px black; 
+    border-radius: 10px;
+    width:50%;
+    margin-left:25%;
+}
+
+#loginBox{
+    background-color: gainsboro;
+    border-radius: 10px;
+    text-align:center;
+    justify-content: center;
+}
+
+.dark_theme #loginBox{
+    color:black;
+}
+
+.inputlogin1{
+    margin-left:10px;
+}
+.inputlogin2{
+    margin-left:18px;
+}
